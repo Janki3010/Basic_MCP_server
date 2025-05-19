@@ -1,1 +1,18 @@
 # Basic_MCP_server
+OPENAI_API_KEY=
+OPENAI_MODEL=
+
+# ==============================
+# PostgreSQL Configuration
+# ==============================
+POSTGRES_HOST=
+POSTGRES_PORT=
+POSTGRES_USERNAME=
+POSTGRES_PASSWORD=
+POSTGRES_DATABASE_NAME=
+
+
+LOCALHOST_URL=
+GEO_URL=
+WEATHER_URL=
+JOKE_URL=
